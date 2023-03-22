@@ -1,0 +1,137 @@
+[
+  {
+    "id": "0",
+    "title": "Ölürüm Ben Sana",
+    "artist": "Fatih Kısaparmak",
+    "album": "Load",
+    "year": 2013,
+    "isSoldOut": true,
+    "imageUrl": "https://img.piri.net/resim/imagecrop/2022/10/30/08/22/resized_405c7-25c57943fatihkc4b1saparmakscca7arkc4b1larc4b1.jpg"
+  },
+  {
+    "id": "1",
+    "title": "Fikrim Yok",
+    "artist": "Hüsnü Arkan & Erkan Oğur",
+    "album": "In The Court Of The Crimson King",
+    "year": 2019,
+    "isSoldOut": false,
+    "imageUrl": "https://www.gazeteduvar.com.tr/2019/06/hh.jpg"
+    },
+  {
+    "id": "2",
+    "title": "Korkularım",
+    "artist": "Sura İskenderli",
+    "album": "Neyse",
+    "year": 2019,
+    "isSoldOut": true,
+    "imageUrl": "https://im.haberturk.com/2021/04/18/ver1618735004/3043531_810x458.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Bizim Şarkımız",
+    "artist": "Cevher",
+    "album": "Eternity",
+    "year": 2018,
+    "isSoldOut": true,
+    "imageUrl": "https://i.ytimg.com/vi/8ly_FG8IWmE/maxresdefault.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Oluruna Bırak",
+    "artist": "Sıla",
+    "album": "(Single)",
+    "year": 2010,
+    "isSoldOut": false,
+    "imageUrl": "https://i.ytimg.com/vi/lVxPbSOWvmc/maxresdefault.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Keyfimiz Ellere Dert Oldu",
+    "artist": "Samet Burak Ay",
+    "album": "Amir",
+    "year": 2021,
+    "isSoldOut": false,
+    "imageUrl": "https://i.ytimg.com/vi/6Kb6oIIjCSM/maxresdefault.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Korkma Söyle",
+    "artist": "Sancak",
+    "album": "Electric Ladyland",
+    "year": 2016,
+    "isSoldOut": true,
+    "imageUrl": "https://i.ytimg.com/vi/JdCSW-irLIU/maxresdefault.jpg"
+  },
+  {
+    "id": "7",
+    "title": "İki Kalp",
+    "artist": "Raci İncigöz",
+    "album": "Satılık",
+    "year": 2018,
+    "isSoldOut": false,
+    "imageUrl": "https://i.ytimg.com/vi/VRzh_b9S630/maxresdefault.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Nazaramı Geldik",
+    "artist": "Polemick",
+    "album": "Kiss of Death",
+    "year": 2018,
+    "isSoldOut": false,
+    "imageUrl": "https://i.ytimg.com/vi/zElPXirX4MU/maxresdefault.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Yağmur Yüreklim",
+    "artist": "Onur Akın",
+    "album": "All Hope Is Gone",
+    "year": 2018,
+    "isSoldOut": true,
+    "imageUrl": "https://i.ytimg.com/vi/QbNW5KQFF04/maxresdefault.jpg"
+  },
+  {
+    "id": "10",
+    "title": "Gül Senin Tenin",
+    "artist": "Bora Duran",
+    "album": "En Güzel Hikayem",
+    "year": 2014,
+    "isSoldOut": false,
+    "imageUrl": "https://i.ytimg.com/vi/nqhGnxuwcIM/hqdefault.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Yıllar Utansın",
+    "artist": "Müslüm Gürses",
+    "album": "Black",
+    "year": 1989,
+    "isSoldOut": true,
+    "imageUrl": "data:image/png;base64,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"
+  },
+  {
+    "id": "12",
+    "title": "Geçen Yıl",
+    "artist": "Ferdi Tayfur",
+    "album": "All Is One",
+    "year": 2014,
+    "isSoldOut": true,
+    "imageUrl": "https://i.ytimg.com/vi/gc0T7iUthf4/hqdefault.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Yaralarımı Sar",
+    "artist": "MEG",
+    "album": "(EP)",
+    "year": 2020,
+    "isSoldOut": false,
+    "imageUrl": "https://i1.sndcdn.com/artworks-000845068093-fdzvhh-t500x500.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Ya Hep Ya Hiç",
+    "artist": "Şebnem Ferah",
+    "album": "Od",
+    "year": 2013,
+    "isSoldOut": false,
+    "imageUrl": "https://i.ytimg.com/vi/ID6b1iiSG9Q/hqdefault.jpg"
+  }
+]
